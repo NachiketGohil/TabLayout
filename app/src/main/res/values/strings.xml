@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tab Layout</string>
+    <string name="tab_text_1">Login</string>
+    <string name="tab_text_2">SignUp</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Login</string>
+</resources>
